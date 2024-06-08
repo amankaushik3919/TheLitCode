@@ -18,3 +18,15 @@ From Now This Git Will Follow A2Z DSA and follows a [playlist](https://www.youtu
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/amankaushik3919/TheLitCode/tree/master/0242-valid-anagram) |
+# Array
+|  |
+| ------- |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/amankaushik3919/TheLitCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+# Binary Search
+|  |
+| ------- |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/amankaushik3919/TheLitCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+# Matrix
+|  |
+| ------- |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/amankaushik3919/TheLitCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
