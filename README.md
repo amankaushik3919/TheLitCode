@@ -21,16 +21,19 @@ From Now This Git Will Follow A2Z DSA and follows a [playlist](https://www.youtu
 | ------- |
 | [0242-valid-anagram](https://github.com/amankaushik3919/TheLitCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/amankaushik3919/TheLitCode/tree/master/0268-missing-number) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/amankaushik3919/TheLitCode/tree/master/2210-find-target-indices-after-sorting-array) |
 # Array
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/amankaushik3919/TheLitCode/tree/master/0268-missing-number) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/amankaushik3919/TheLitCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/amankaushik3919/TheLitCode/tree/master/2210-find-target-indices-after-sorting-array) |
 # Binary Search
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/amankaushik3919/TheLitCode/tree/master/0268-missing-number) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/amankaushik3919/TheLitCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/amankaushik3919/TheLitCode/tree/master/2210-find-target-indices-after-sorting-array) |
 # Matrix
 |  |
 | ------- |
