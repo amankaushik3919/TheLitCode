@@ -25,6 +25,7 @@ From Now This Git Will Follow A2Z DSA and follows a [playlist](https://www.youtu
 # Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/amankaushik3919/TheLitCode/tree/master/0053-maximum-subarray) |
 | [0268-missing-number](https://github.com/amankaushik3919/TheLitCode/tree/master/0268-missing-number) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/amankaushik3919/TheLitCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/amankaushik3919/TheLitCode/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -51,3 +52,11 @@ From Now This Git Will Follow A2Z DSA and follows a [playlist](https://www.youtu
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/amankaushik3919/TheLitCode/tree/master/0374-guess-number-higher-or-lower) |
+# Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/amankaushik3919/TheLitCode/tree/master/0053-maximum-subarray) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/amankaushik3919/TheLitCode/tree/master/0053-maximum-subarray) |
