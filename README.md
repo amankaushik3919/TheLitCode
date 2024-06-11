@@ -32,6 +32,7 @@ From Now This Git Will Follow A2Z DSA and follows a [playlist](https://www.youtu
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/amankaushik3919/TheLitCode/tree/master/0268-missing-number) |
+| [0374-guess-number-higher-or-lower](https://github.com/amankaushik3919/TheLitCode/tree/master/0374-guess-number-higher-or-lower) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/amankaushik3919/TheLitCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/amankaushik3919/TheLitCode/tree/master/2210-find-target-indices-after-sorting-array) |
 # Matrix
@@ -46,3 +47,7 @@ From Now This Git Will Follow A2Z DSA and follows a [playlist](https://www.youtu
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/amankaushik3919/TheLitCode/tree/master/0268-missing-number) |
+# Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/amankaushik3919/TheLitCode/tree/master/0374-guess-number-higher-or-lower) |
