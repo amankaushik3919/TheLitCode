@@ -60,3 +60,14 @@ From Now This Git Will Follow A2Z DSA and follows a [playlist](https://www.youtu
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/amankaushik3919/TheLitCode/tree/master/0053-maximum-subarray) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Binary Search
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/amankaushik3919/TheLitCode/tree/master/0374-guess-number-higher-or-lower) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/amankaushik3919/TheLitCode/tree/master/0374-guess-number-higher-or-lower) |
+<!---LeetCode Topics End-->
