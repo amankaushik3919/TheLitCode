@@ -10,10 +10,10 @@
 
 public class Solution extends GuessGame {
     public int guessNumber(int n) {
-        int low = 1, high = n, mid;
+        int low = 1;
+        int high = n, mid = 0;
         while (low < high) {
-            mid = low + (high-low) / 2;
-
+            mid = low + (high - low) / 2;
             if (guess(mid) <= 0) {
                 high = mid;
             } else {
