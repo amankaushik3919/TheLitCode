@@ -86,6 +86,7 @@ From Now This Git Will Follow A2Z DSA and follows a [playlist](https://www.youtu
 | [0112-path-sum](https://github.com/amankaushik3919/TheLitCode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/amankaushik3919/TheLitCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/amankaushik3919/TheLitCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [2384-root-equals-sum-of-children](https://github.com/amankaushik3919/TheLitCode/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -106,6 +107,7 @@ From Now This Git Will Follow A2Z DSA and follows a [playlist](https://www.youtu
 | [0112-path-sum](https://github.com/amankaushik3919/TheLitCode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/amankaushik3919/TheLitCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/amankaushik3919/TheLitCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [2384-root-equals-sum-of-children](https://github.com/amankaushik3919/TheLitCode/tree/master/2384-root-equals-sum-of-children) |
 ## Breadth-First Search
 |  |
 | ------- |
