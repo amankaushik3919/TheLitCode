@@ -65,6 +65,7 @@ From Now This Git Will Follow A2Z DSA and follows a [playlist](https://www.youtu
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/amankaushik3919/TheLitCode/tree/master/0222-count-complete-tree-nodes) |
 | [0374-guess-number-higher-or-lower](https://github.com/amankaushik3919/TheLitCode/tree/master/0374-guess-number-higher-or-lower) |
 ## Interactive
 |  |
@@ -86,6 +87,7 @@ From Now This Git Will Follow A2Z DSA and follows a [playlist](https://www.youtu
 | [0112-path-sum](https://github.com/amankaushik3919/TheLitCode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/amankaushik3919/TheLitCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/amankaushik3919/TheLitCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/amankaushik3919/TheLitCode/tree/master/0222-count-complete-tree-nodes) |
 | [0975-range-sum-of-bst](https://github.com/amankaushik3919/TheLitCode/tree/master/0975-range-sum-of-bst) |
 | [2384-root-equals-sum-of-children](https://github.com/amankaushik3919/TheLitCode/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
@@ -109,6 +111,7 @@ From Now This Git Will Follow A2Z DSA and follows a [playlist](https://www.youtu
 | [0112-path-sum](https://github.com/amankaushik3919/TheLitCode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/amankaushik3919/TheLitCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/amankaushik3919/TheLitCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/amankaushik3919/TheLitCode/tree/master/0222-count-complete-tree-nodes) |
 | [0975-range-sum-of-bst](https://github.com/amankaushik3919/TheLitCode/tree/master/0975-range-sum-of-bst) |
 | [2384-root-equals-sum-of-children](https://github.com/amankaushik3919/TheLitCode/tree/master/2384-root-equals-sum-of-children) |
 ## Breadth-First Search
@@ -122,4 +125,8 @@ From Now This Git Will Follow A2Z DSA and follows a [playlist](https://www.youtu
 |  |
 | ------- |
 | [0975-range-sum-of-bst](https://github.com/amankaushik3919/TheLitCode/tree/master/0975-range-sum-of-bst) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/amankaushik3919/TheLitCode/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
