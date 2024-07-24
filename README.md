@@ -74,21 +74,25 @@ From Now This Git Will Follow A2Z DSA and follows a [playlist](https://www.youtu
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/amankaushik3919/TheLitCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/amankaushik3919/TheLitCode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/amankaushik3919/TheLitCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/amankaushik3919/TheLitCode/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/amankaushik3919/TheLitCode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/amankaushik3919/TheLitCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/amankaushik3919/TheLitCode/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/amankaushik3919/TheLitCode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/amankaushik3919/TheLitCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/amankaushik3919/TheLitCode/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/amankaushik3919/TheLitCode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
