@@ -134,6 +134,7 @@ From Now This Git Will Follow A2Z DSA and follows a [playlist](https://www.youtu
 | ------- |
 | [0070-climbing-stairs](https://github.com/amankaushik3919/TheLitCode/tree/master/0070-climbing-stairs) |
 | [2383-add-two-integers](https://github.com/amankaushik3919/TheLitCode/tree/master/2383-add-two-integers) |
+| [2752-sum-multiples](https://github.com/amankaushik3919/TheLitCode/tree/master/2752-sum-multiples) |
 ## Dynamic Programming
 |  |
 | ------- |
