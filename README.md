@@ -65,6 +65,7 @@ From Now This Git Will Follow A2Z DSA and follows a [playlist](https://www.youtu
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/amankaushik3919/TheLitCode/tree/master/0035-search-insert-position) |
 | [0222-count-complete-tree-nodes](https://github.com/amankaushik3919/TheLitCode/tree/master/0222-count-complete-tree-nodes) |
 | [0374-guess-number-higher-or-lower](https://github.com/amankaushik3919/TheLitCode/tree/master/0374-guess-number-higher-or-lower) |
 ## Interactive
@@ -143,4 +144,8 @@ From Now This Git Will Follow A2Z DSA and follows a [playlist](https://www.youtu
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/amankaushik3919/TheLitCode/tree/master/0070-climbing-stairs) |
+## Array
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/amankaushik3919/TheLitCode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
