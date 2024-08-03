@@ -153,10 +153,12 @@ From Now This Git Will Follow A2Z DSA and follows a [playlist](https://www.youtu
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/amankaushik3919/TheLitCode/tree/master/0035-search-insert-position) |
+| [1019-squares-of-a-sorted-array](https://github.com/amankaushik3919/TheLitCode/tree/master/1019-squares-of-a-sorted-array) |
 | [3321-type-of-triangle](https://github.com/amankaushik3919/TheLitCode/tree/master/3321-type-of-triangle) |
 ## Sorting
 |  |
 | ------- |
+| [1019-squares-of-a-sorted-array](https://github.com/amankaushik3919/TheLitCode/tree/master/1019-squares-of-a-sorted-array) |
 | [3321-type-of-triangle](https://github.com/amankaushik3919/TheLitCode/tree/master/3321-type-of-triangle) |
 ## Linked List
 |  |
@@ -166,4 +168,5 @@ From Now This Git Will Follow A2Z DSA and follows a [playlist](https://www.youtu
 |  |
 | ------- |
 | [0908-middle-of-the-linked-list](https://github.com/amankaushik3919/TheLitCode/tree/master/0908-middle-of-the-linked-list) |
+| [1019-squares-of-a-sorted-array](https://github.com/amankaushik3919/TheLitCode/tree/master/1019-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
