@@ -92,6 +92,7 @@ From Now This Git Will Follow A2Z DSA and follows a [playlist](https://www.youtu
 | [0404-sum-of-left-leaves](https://github.com/amankaushik3919/TheLitCode/tree/master/0404-sum-of-left-leaves) |
 | [0975-range-sum-of-bst](https://github.com/amankaushik3919/TheLitCode/tree/master/0975-range-sum-of-bst) |
 | [2384-root-equals-sum-of-children](https://github.com/amankaushik3919/TheLitCode/tree/master/2384-root-equals-sum-of-children) |
+| [2416-evaluate-boolean-binary-tree](https://github.com/amankaushik3919/TheLitCode/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -104,6 +105,7 @@ From Now This Git Will Follow A2Z DSA and follows a [playlist](https://www.youtu
 | [0145-binary-tree-postorder-traversal](https://github.com/amankaushik3919/TheLitCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/amankaushik3919/TheLitCode/tree/master/0404-sum-of-left-leaves) |
 | [0975-range-sum-of-bst](https://github.com/amankaushik3919/TheLitCode/tree/master/0975-range-sum-of-bst) |
+| [2416-evaluate-boolean-binary-tree](https://github.com/amankaushik3919/TheLitCode/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -118,6 +120,7 @@ From Now This Git Will Follow A2Z DSA and follows a [playlist](https://www.youtu
 | [0404-sum-of-left-leaves](https://github.com/amankaushik3919/TheLitCode/tree/master/0404-sum-of-left-leaves) |
 | [0975-range-sum-of-bst](https://github.com/amankaushik3919/TheLitCode/tree/master/0975-range-sum-of-bst) |
 | [2384-root-equals-sum-of-children](https://github.com/amankaushik3919/TheLitCode/tree/master/2384-root-equals-sum-of-children) |
+| [2416-evaluate-boolean-binary-tree](https://github.com/amankaushik3919/TheLitCode/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
