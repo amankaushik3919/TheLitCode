@@ -75,6 +75,7 @@ From Now This Git Will Follow A2Z DSA and follows a [playlist](https://www.youtu
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/amankaushik3919/TheLitCode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/amankaushik3919/TheLitCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/amankaushik3919/TheLitCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/amankaushik3919/TheLitCode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -178,4 +179,8 @@ From Now This Git Will Follow A2Z DSA and follows a [playlist](https://www.youtu
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/amankaushik3919/TheLitCode/tree/master/0141-linked-list-cycle) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/amankaushik3919/TheLitCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
