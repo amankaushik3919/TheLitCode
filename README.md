@@ -141,10 +141,12 @@ From Now This Git Will Follow A2Z DSA and follows a [playlist](https://www.youtu
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/amankaushik3919/TheLitCode/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/amankaushik3919/TheLitCode/tree/master/0231-power-of-two) |
 ## Math
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/amankaushik3919/TheLitCode/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/amankaushik3919/TheLitCode/tree/master/0231-power-of-two) |
 | [2383-add-two-integers](https://github.com/amankaushik3919/TheLitCode/tree/master/2383-add-two-integers) |
 | [2752-sum-multiples](https://github.com/amankaushik3919/TheLitCode/tree/master/2752-sum-multiples) |
 | [3321-type-of-triangle](https://github.com/amankaushik3919/TheLitCode/tree/master/3321-type-of-triangle) |
@@ -195,4 +197,8 @@ From Now This Git Will Follow A2Z DSA and follows a [playlist](https://www.youtu
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/amankaushik3919/TheLitCode/tree/master/0054-spiral-matrix) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/amankaushik3919/TheLitCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
