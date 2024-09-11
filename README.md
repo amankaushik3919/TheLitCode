@@ -161,6 +161,7 @@ From Now This Git Will Follow A2Z DSA and follows a [playlist](https://www.youtu
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/amankaushik3919/TheLitCode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/amankaushik3919/TheLitCode/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/amankaushik3919/TheLitCode/tree/master/0054-spiral-matrix) |
 | [1019-squares-of-a-sorted-array](https://github.com/amankaushik3919/TheLitCode/tree/master/1019-squares-of-a-sorted-array) |
@@ -184,6 +185,7 @@ From Now This Git Will Follow A2Z DSA and follows a [playlist](https://www.youtu
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/amankaushik3919/TheLitCode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/amankaushik3919/TheLitCode/tree/master/0141-linked-list-cycle) |
 ## String
 |  |
