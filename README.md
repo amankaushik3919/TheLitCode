@@ -68,6 +68,7 @@ From Now This Git Will Follow A2Z DSA and follows a [playlist](https://www.youtu
 | [0035-search-insert-position](https://github.com/amankaushik3919/TheLitCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/amankaushik3919/TheLitCode/tree/master/0069-sqrtx) |
 | [0222-count-complete-tree-nodes](https://github.com/amankaushik3919/TheLitCode/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/amankaushik3919/TheLitCode/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/amankaushik3919/TheLitCode/tree/master/0374-guess-number-higher-or-lower) |
 ## Interactive
 |  |
@@ -143,6 +144,7 @@ From Now This Git Will Follow A2Z DSA and follows a [playlist](https://www.youtu
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/amankaushik3919/TheLitCode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/amankaushik3919/TheLitCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/amankaushik3919/TheLitCode/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
@@ -154,6 +156,7 @@ From Now This Git Will Follow A2Z DSA and follows a [playlist](https://www.youtu
 | [0231-power-of-two](https://github.com/amankaushik3919/TheLitCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/amankaushik3919/TheLitCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/amankaushik3919/TheLitCode/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/amankaushik3919/TheLitCode/tree/master/0268-missing-number) |
 | [2383-add-two-integers](https://github.com/amankaushik3919/TheLitCode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/amankaushik3919/TheLitCode/tree/master/2491-smallest-even-multiple) |
 | [2752-sum-multiples](https://github.com/amankaushik3919/TheLitCode/tree/master/2752-sum-multiples) |
@@ -180,6 +183,7 @@ From Now This Git Will Follow A2Z DSA and follows a [playlist](https://www.youtu
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amankaushik3919/TheLitCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0204-count-primes](https://github.com/amankaushik3919/TheLitCode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/amankaushik3919/TheLitCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/amankaushik3919/TheLitCode/tree/master/0268-missing-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/amankaushik3919/TheLitCode/tree/master/1019-squares-of-a-sorted-array) |
 | [3321-type-of-triangle](https://github.com/amankaushik3919/TheLitCode/tree/master/3321-type-of-triangle) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/amankaushik3919/TheLitCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -188,6 +192,7 @@ From Now This Git Will Follow A2Z DSA and follows a [playlist](https://www.youtu
 | ------- |
 | [0217-contains-duplicate](https://github.com/amankaushik3919/TheLitCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/amankaushik3919/TheLitCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/amankaushik3919/TheLitCode/tree/master/0268-missing-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/amankaushik3919/TheLitCode/tree/master/1019-squares-of-a-sorted-array) |
 | [3321-type-of-triangle](https://github.com/amankaushik3919/TheLitCode/tree/master/3321-type-of-triangle) |
 ## Linked List
@@ -209,6 +214,7 @@ From Now This Git Will Follow A2Z DSA and follows a [playlist](https://www.youtu
 | [0141-linked-list-cycle](https://github.com/amankaushik3919/TheLitCode/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/amankaushik3919/TheLitCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/amankaushik3919/TheLitCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/amankaushik3919/TheLitCode/tree/master/0268-missing-number) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/amankaushik3919/TheLitCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## String
 |  |
