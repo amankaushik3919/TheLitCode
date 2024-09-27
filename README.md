@@ -74,6 +74,7 @@ From Now This Git Will Follow A2Z DSA and follows a [playlist](https://www.youtu
 | [0374-guess-number-higher-or-lower](https://github.com/amankaushik3919/TheLitCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/amankaushik3919/TheLitCode/tree/master/0792-binary-search) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/amankaushik3919/TheLitCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/amankaushik3919/TheLitCode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Interactive
 |  |
 | ------- |
@@ -207,6 +208,7 @@ From Now This Git Will Follow A2Z DSA and follows a [playlist](https://www.youtu
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/amankaushik3919/TheLitCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1635-number-of-good-pairs](https://github.com/amankaushik3919/TheLitCode/tree/master/1635-number-of-good-pairs) |
 | [2058-concatenation-of-array](https://github.com/amankaushik3919/TheLitCode/tree/master/2058-concatenation-of-array) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/amankaushik3919/TheLitCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [3321-type-of-triangle](https://github.com/amankaushik3919/TheLitCode/tree/master/3321-type-of-triangle) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/amankaushik3919/TheLitCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Sorting
@@ -216,6 +218,7 @@ From Now This Git Will Follow A2Z DSA and follows a [playlist](https://www.youtu
 | [0242-valid-anagram](https://github.com/amankaushik3919/TheLitCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/amankaushik3919/TheLitCode/tree/master/0268-missing-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/amankaushik3919/TheLitCode/tree/master/1019-squares-of-a-sorted-array) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/amankaushik3919/TheLitCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [3321-type-of-triangle](https://github.com/amankaushik3919/TheLitCode/tree/master/3321-type-of-triangle) |
 ## Linked List
 |  |
