@@ -206,6 +206,7 @@ From Now This Git Will Follow A2Z DSA and follows a [playlist](https://www.youtu
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/amankaushik3919/TheLitCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/amankaushik3919/TheLitCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1635-number-of-good-pairs](https://github.com/amankaushik3919/TheLitCode/tree/master/1635-number-of-good-pairs) |
+| [2058-concatenation-of-array](https://github.com/amankaushik3919/TheLitCode/tree/master/2058-concatenation-of-array) |
 | [3321-type-of-triangle](https://github.com/amankaushik3919/TheLitCode/tree/master/3321-type-of-triangle) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/amankaushik3919/TheLitCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Sorting
@@ -258,6 +259,7 @@ From Now This Git Will Follow A2Z DSA and follows a [playlist](https://www.youtu
 | ------- |
 | [0054-spiral-matrix](https://github.com/amankaushik3919/TheLitCode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/amankaushik3919/TheLitCode/tree/master/0258-add-digits) |
+| [2058-concatenation-of-array](https://github.com/amankaushik3919/TheLitCode/tree/master/2058-concatenation-of-array) |
 ## Recursion
 |  |
 | ------- |
