@@ -69,10 +69,12 @@ From Now This Git Will Follow A2Z DSA and follows a [playlist](https://www.youtu
 | [0069-sqrtx](https://github.com/amankaushik3919/TheLitCode/tree/master/0069-sqrtx) |
 | [0222-count-complete-tree-nodes](https://github.com/amankaushik3919/TheLitCode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/amankaushik3919/TheLitCode/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/amankaushik3919/TheLitCode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/amankaushik3919/TheLitCode/tree/master/0374-guess-number-higher-or-lower) |
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/amankaushik3919/TheLitCode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/amankaushik3919/TheLitCode/tree/master/0374-guess-number-higher-or-lower) |
 ## Stack
 |  |
