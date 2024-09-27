@@ -66,6 +66,7 @@ From Now This Git Will Follow A2Z DSA and follows a [playlist](https://www.youtu
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/amankaushik3919/TheLitCode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/amankaushik3919/TheLitCode/tree/master/0069-sqrtx) |
 | [0222-count-complete-tree-nodes](https://github.com/amankaushik3919/TheLitCode/tree/master/0222-count-complete-tree-nodes) |
 | [0374-guess-number-higher-or-lower](https://github.com/amankaushik3919/TheLitCode/tree/master/0374-guess-number-higher-or-lower) |
 ## Interactive
@@ -147,6 +148,7 @@ From Now This Git Will Follow A2Z DSA and follows a [playlist](https://www.youtu
 | ------- |
 | [0009-palindrome-number](https://github.com/amankaushik3919/TheLitCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/amankaushik3919/TheLitCode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/amankaushik3919/TheLitCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/amankaushik3919/TheLitCode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/amankaushik3919/TheLitCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/amankaushik3919/TheLitCode/tree/master/0231-power-of-two) |
