@@ -157,6 +157,7 @@ From Now This Git Will Follow A2Z DSA and follows a [playlist](https://www.youtu
 | ------- |
 | [0007-reverse-integer](https://github.com/amankaushik3919/TheLitCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/amankaushik3919/TheLitCode/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/amankaushik3919/TheLitCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/amankaushik3919/TheLitCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/amankaushik3919/TheLitCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/amankaushik3919/TheLitCode/tree/master/0070-climbing-stairs) |
@@ -271,6 +272,7 @@ From Now This Git Will Follow A2Z DSA and follows a [playlist](https://www.youtu
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/amankaushik3919/TheLitCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/amankaushik3919/TheLitCode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/amankaushik3919/TheLitCode/tree/master/1013-fibonacci-number) |
 ## Enumeration
