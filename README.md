@@ -96,6 +96,7 @@ From Now This Git Will Follow A2Z DSA and follows a [playlist](https://www.youtu
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/amankaushik3919/TheLitCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/amankaushik3919/TheLitCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/amankaushik3919/TheLitCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/amankaushik3919/TheLitCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/amankaushik3919/TheLitCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/amankaushik3919/TheLitCode/tree/master/0112-path-sum) |
@@ -112,6 +113,7 @@ From Now This Git Will Follow A2Z DSA and follows a [playlist](https://www.youtu
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/amankaushik3919/TheLitCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/amankaushik3919/TheLitCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/amankaushik3919/TheLitCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/amankaushik3919/TheLitCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/amankaushik3919/TheLitCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/amankaushik3919/TheLitCode/tree/master/0112-path-sum) |
@@ -125,6 +127,7 @@ From Now This Git Will Follow A2Z DSA and follows a [playlist](https://www.youtu
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/amankaushik3919/TheLitCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/amankaushik3919/TheLitCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/amankaushik3919/TheLitCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/amankaushik3919/TheLitCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/amankaushik3919/TheLitCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/amankaushik3919/TheLitCode/tree/master/0112-path-sum) |
@@ -140,6 +143,7 @@ From Now This Git Will Follow A2Z DSA and follows a [playlist](https://www.youtu
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/amankaushik3919/TheLitCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/amankaushik3919/TheLitCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/amankaushik3919/TheLitCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/amankaushik3919/TheLitCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/amankaushik3919/TheLitCode/tree/master/0112-path-sum) |
