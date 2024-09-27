@@ -200,6 +200,7 @@ From Now This Git Will Follow A2Z DSA and follows a [playlist](https://www.youtu
 | [0053-maximum-subarray](https://github.com/amankaushik3919/TheLitCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/amankaushik3919/TheLitCode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/amankaushik3919/TheLitCode/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/amankaushik3919/TheLitCode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/amankaushik3919/TheLitCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amankaushik3919/TheLitCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0204-count-primes](https://github.com/amankaushik3919/TheLitCode/tree/master/0204-count-primes) |
@@ -220,6 +221,7 @@ From Now This Git Will Follow A2Z DSA and follows a [playlist](https://www.youtu
 |  |
 | ------- |
 | [0015-3sum](https://github.com/amankaushik3919/TheLitCode/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/amankaushik3919/TheLitCode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/amankaushik3919/TheLitCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/amankaushik3919/TheLitCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/amankaushik3919/TheLitCode/tree/master/0268-missing-number) |
@@ -235,6 +237,7 @@ From Now This Git Will Follow A2Z DSA and follows a [playlist](https://www.youtu
 |  |
 | ------- |
 | [0015-3sum](https://github.com/amankaushik3919/TheLitCode/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/amankaushik3919/TheLitCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/amankaushik3919/TheLitCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/amankaushik3919/TheLitCode/tree/master/0141-linked-list-cycle) |
 | [0392-is-subsequence](https://github.com/amankaushik3919/TheLitCode/tree/master/0392-is-subsequence) |
