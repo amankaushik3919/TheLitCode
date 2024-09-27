@@ -252,6 +252,7 @@ From Now This Git Will Follow A2Z DSA and follows a [playlist](https://www.youtu
 | [0242-valid-anagram](https://github.com/amankaushik3919/TheLitCode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/amankaushik3919/TheLitCode/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/amankaushik3919/TheLitCode/tree/master/1894-merge-strings-alternately) |
+| [3379-score-of-a-string](https://github.com/amankaushik3919/TheLitCode/tree/master/3379-score-of-a-string) |
 ## Matrix
 |  |
 | ------- |
