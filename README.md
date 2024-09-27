@@ -164,6 +164,7 @@ From Now This Git Will Follow A2Z DSA and follows a [playlist](https://www.youtu
 | [0268-missing-number](https://github.com/amankaushik3919/TheLitCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/amankaushik3919/TheLitCode/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/amankaushik3919/TheLitCode/tree/master/0507-perfect-number) |
+| [1013-fibonacci-number](https://github.com/amankaushik3919/TheLitCode/tree/master/1013-fibonacci-number) |
 | [2383-add-two-integers](https://github.com/amankaushik3919/TheLitCode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/amankaushik3919/TheLitCode/tree/master/2491-smallest-even-multiple) |
 | [2752-sum-multiples](https://github.com/amankaushik3919/TheLitCode/tree/master/2752-sum-multiples) |
@@ -177,10 +178,12 @@ From Now This Git Will Follow A2Z DSA and follows a [playlist](https://www.youtu
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amankaushik3919/TheLitCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/amankaushik3919/TheLitCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/amankaushik3919/TheLitCode/tree/master/0392-is-subsequence) |
+| [1013-fibonacci-number](https://github.com/amankaushik3919/TheLitCode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/amankaushik3919/TheLitCode/tree/master/0070-climbing-stairs) |
+| [1013-fibonacci-number](https://github.com/amankaushik3919/TheLitCode/tree/master/1013-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -248,6 +251,7 @@ From Now This Git Will Follow A2Z DSA and follows a [playlist](https://www.youtu
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/amankaushik3919/TheLitCode/tree/master/0231-power-of-two) |
+| [1013-fibonacci-number](https://github.com/amankaushik3919/TheLitCode/tree/master/1013-fibonacci-number) |
 ## Enumeration
 |  |
 | ------- |
