@@ -167,6 +167,7 @@ From Now This Git Will Follow A2Z DSA and follows a [playlist](https://www.youtu
 | [0507-perfect-number](https://github.com/amankaushik3919/TheLitCode/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/amankaushik3919/TheLitCode/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/amankaushik3919/TheLitCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1635-number-of-good-pairs](https://github.com/amankaushik3919/TheLitCode/tree/master/1635-number-of-good-pairs) |
 | [2383-add-two-integers](https://github.com/amankaushik3919/TheLitCode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/amankaushik3919/TheLitCode/tree/master/2491-smallest-even-multiple) |
 | [2752-sum-multiples](https://github.com/amankaushik3919/TheLitCode/tree/master/2752-sum-multiples) |
@@ -204,6 +205,7 @@ From Now This Git Will Follow A2Z DSA and follows a [playlist](https://www.youtu
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/amankaushik3919/TheLitCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/amankaushik3919/TheLitCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/amankaushik3919/TheLitCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1635-number-of-good-pairs](https://github.com/amankaushik3919/TheLitCode/tree/master/1635-number-of-good-pairs) |
 | [3321-type-of-triangle](https://github.com/amankaushik3919/TheLitCode/tree/master/3321-type-of-triangle) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/amankaushik3919/TheLitCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Sorting
@@ -235,6 +237,7 @@ From Now This Git Will Follow A2Z DSA and follows a [playlist](https://www.youtu
 | [0217-contains-duplicate](https://github.com/amankaushik3919/TheLitCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/amankaushik3919/TheLitCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/amankaushik3919/TheLitCode/tree/master/0268-missing-number) |
+| [1635-number-of-good-pairs](https://github.com/amankaushik3919/TheLitCode/tree/master/1635-number-of-good-pairs) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/amankaushik3919/TheLitCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## String
 |  |
@@ -268,4 +271,8 @@ From Now This Git Will Follow A2Z DSA and follows a [playlist](https://www.youtu
 | [0204-count-primes](https://github.com/amankaushik3919/TheLitCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/amankaushik3919/TheLitCode/tree/master/0258-add-digits) |
 | [2491-smallest-even-multiple](https://github.com/amankaushik3919/TheLitCode/tree/master/2491-smallest-even-multiple) |
+## Counting
+|  |
+| ------- |
+| [1635-number-of-good-pairs](https://github.com/amankaushik3919/TheLitCode/tree/master/1635-number-of-good-pairs) |
 <!---LeetCode Topics End-->
