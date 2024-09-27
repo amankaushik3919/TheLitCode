@@ -152,6 +152,7 @@ From Now This Git Will Follow A2Z DSA and follows a [playlist](https://www.youtu
 | [0070-climbing-stairs](https://github.com/amankaushik3919/TheLitCode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/amankaushik3919/TheLitCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/amankaushik3919/TheLitCode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/amankaushik3919/TheLitCode/tree/master/0258-add-digits) |
 | [2383-add-two-integers](https://github.com/amankaushik3919/TheLitCode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/amankaushik3919/TheLitCode/tree/master/2491-smallest-even-multiple) |
 | [2752-sum-multiples](https://github.com/amankaushik3919/TheLitCode/tree/master/2752-sum-multiples) |
@@ -222,6 +223,7 @@ From Now This Git Will Follow A2Z DSA and follows a [playlist](https://www.youtu
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/amankaushik3919/TheLitCode/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/amankaushik3919/TheLitCode/tree/master/0258-add-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -234,5 +236,6 @@ From Now This Git Will Follow A2Z DSA and follows a [playlist](https://www.youtu
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/amankaushik3919/TheLitCode/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/amankaushik3919/TheLitCode/tree/master/0258-add-digits) |
 | [2491-smallest-even-multiple](https://github.com/amankaushik3919/TheLitCode/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
