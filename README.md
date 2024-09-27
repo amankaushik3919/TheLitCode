@@ -177,12 +177,14 @@ From Now This Git Will Follow A2Z DSA and follows a [playlist](https://www.youtu
 | [0118-pascals-triangle](https://github.com/amankaushik3919/TheLitCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amankaushik3919/TheLitCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0204-count-primes](https://github.com/amankaushik3919/TheLitCode/tree/master/0204-count-primes) |
+| [0217-contains-duplicate](https://github.com/amankaushik3919/TheLitCode/tree/master/0217-contains-duplicate) |
 | [1019-squares-of-a-sorted-array](https://github.com/amankaushik3919/TheLitCode/tree/master/1019-squares-of-a-sorted-array) |
 | [3321-type-of-triangle](https://github.com/amankaushik3919/TheLitCode/tree/master/3321-type-of-triangle) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/amankaushik3919/TheLitCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/amankaushik3919/TheLitCode/tree/master/0217-contains-duplicate) |
 | [1019-squares-of-a-sorted-array](https://github.com/amankaushik3919/TheLitCode/tree/master/1019-squares-of-a-sorted-array) |
 | [3321-type-of-triangle](https://github.com/amankaushik3919/TheLitCode/tree/master/3321-type-of-triangle) |
 ## Linked List
@@ -202,6 +204,7 @@ From Now This Git Will Follow A2Z DSA and follows a [playlist](https://www.youtu
 | ------- |
 | [0001-two-sum](https://github.com/amankaushik3919/TheLitCode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/amankaushik3919/TheLitCode/tree/master/0141-linked-list-cycle) |
+| [0217-contains-duplicate](https://github.com/amankaushik3919/TheLitCode/tree/master/0217-contains-duplicate) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/amankaushik3919/TheLitCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## String
 |  |
