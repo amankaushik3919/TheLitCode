@@ -179,6 +179,7 @@ From Now This Git Will Follow A2Z DSA and follows a [playlist](https://www.youtu
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/amankaushik3919/TheLitCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/amankaushik3919/TheLitCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/amankaushik3919/TheLitCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amankaushik3919/TheLitCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -196,6 +197,7 @@ From Now This Git Will Follow A2Z DSA and follows a [playlist](https://www.youtu
 | [0001-two-sum](https://github.com/amankaushik3919/TheLitCode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/amankaushik3919/TheLitCode/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/amankaushik3919/TheLitCode/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/amankaushik3919/TheLitCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/amankaushik3919/TheLitCode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/amankaushik3919/TheLitCode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/amankaushik3919/TheLitCode/tree/master/0118-pascals-triangle) |
@@ -289,4 +291,8 @@ From Now This Git Will Follow A2Z DSA and follows a [playlist](https://www.youtu
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/amankaushik3919/TheLitCode/tree/master/1635-number-of-good-pairs) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/amankaushik3919/TheLitCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
