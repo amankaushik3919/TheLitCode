@@ -229,6 +229,7 @@ From Now This Git Will Follow A2Z DSA and follows a [playlist](https://www.youtu
 | [0392-is-subsequence](https://github.com/amankaushik3919/TheLitCode/tree/master/0392-is-subsequence) |
 | [0908-middle-of-the-linked-list](https://github.com/amankaushik3919/TheLitCode/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/amankaushik3919/TheLitCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1894-merge-strings-alternately](https://github.com/amankaushik3919/TheLitCode/tree/master/1894-merge-strings-alternately) |
 ## Hash Table
 |  |
 | ------- |
@@ -246,6 +247,7 @@ From Now This Git Will Follow A2Z DSA and follows a [playlist](https://www.youtu
 | [0125-valid-palindrome](https://github.com/amankaushik3919/TheLitCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/amankaushik3919/TheLitCode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/amankaushik3919/TheLitCode/tree/master/0392-is-subsequence) |
+| [1894-merge-strings-alternately](https://github.com/amankaushik3919/TheLitCode/tree/master/1894-merge-strings-alternately) |
 ## Matrix
 |  |
 | ------- |
