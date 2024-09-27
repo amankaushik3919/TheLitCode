@@ -73,6 +73,7 @@ From Now This Git Will Follow A2Z DSA and follows a [playlist](https://www.youtu
 | [0278-first-bad-version](https://github.com/amankaushik3919/TheLitCode/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/amankaushik3919/TheLitCode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/amankaushik3919/TheLitCode/tree/master/0374-guess-number-higher-or-lower) |
+| [0633-sum-of-square-numbers](https://github.com/amankaushik3919/TheLitCode/tree/master/0633-sum-of-square-numbers) |
 | [0792-binary-search](https://github.com/amankaushik3919/TheLitCode/tree/master/0792-binary-search) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/amankaushik3919/TheLitCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/amankaushik3919/TheLitCode/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -169,6 +170,7 @@ From Now This Git Will Follow A2Z DSA and follows a [playlist](https://www.youtu
 | [0268-missing-number](https://github.com/amankaushik3919/TheLitCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/amankaushik3919/TheLitCode/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/amankaushik3919/TheLitCode/tree/master/0507-perfect-number) |
+| [0633-sum-of-square-numbers](https://github.com/amankaushik3919/TheLitCode/tree/master/0633-sum-of-square-numbers) |
 | [1013-fibonacci-number](https://github.com/amankaushik3919/TheLitCode/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/amankaushik3919/TheLitCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1635-number-of-good-pairs](https://github.com/amankaushik3919/TheLitCode/tree/master/1635-number-of-good-pairs) |
@@ -244,6 +246,7 @@ From Now This Git Will Follow A2Z DSA and follows a [playlist](https://www.youtu
 | [0125-valid-palindrome](https://github.com/amankaushik3919/TheLitCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/amankaushik3919/TheLitCode/tree/master/0141-linked-list-cycle) |
 | [0392-is-subsequence](https://github.com/amankaushik3919/TheLitCode/tree/master/0392-is-subsequence) |
+| [0633-sum-of-square-numbers](https://github.com/amankaushik3919/TheLitCode/tree/master/0633-sum-of-square-numbers) |
 | [0908-middle-of-the-linked-list](https://github.com/amankaushik3919/TheLitCode/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/amankaushik3919/TheLitCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/amankaushik3919/TheLitCode/tree/master/1894-merge-strings-alternately) |
