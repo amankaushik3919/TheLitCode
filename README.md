@@ -208,6 +208,7 @@ From Now This Git Will Follow A2Z DSA and follows a [playlist](https://www.youtu
 | [0204-count-primes](https://github.com/amankaushik3919/TheLitCode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/amankaushik3919/TheLitCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/amankaushik3919/TheLitCode/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/amankaushik3919/TheLitCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/amankaushik3919/TheLitCode/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/amankaushik3919/TheLitCode/tree/master/0792-binary-search) |
 | [1019-squares-of-a-sorted-array](https://github.com/amankaushik3919/TheLitCode/tree/master/1019-squares-of-a-sorted-array) |
@@ -254,6 +255,7 @@ From Now This Git Will Follow A2Z DSA and follows a [playlist](https://www.youtu
 | [0217-contains-duplicate](https://github.com/amankaushik3919/TheLitCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/amankaushik3919/TheLitCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/amankaushik3919/TheLitCode/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/amankaushik3919/TheLitCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/amankaushik3919/TheLitCode/tree/master/1635-number-of-good-pairs) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/amankaushik3919/TheLitCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## String
