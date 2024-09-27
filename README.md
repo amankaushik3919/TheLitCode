@@ -155,6 +155,7 @@ From Now This Git Will Follow A2Z DSA and follows a [playlist](https://www.youtu
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/amankaushik3919/TheLitCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/amankaushik3919/TheLitCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/amankaushik3919/TheLitCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/amankaushik3919/TheLitCode/tree/master/0069-sqrtx) |
