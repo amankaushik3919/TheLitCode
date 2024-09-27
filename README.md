@@ -65,6 +65,7 @@ From Now This Git Will Follow A2Z DSA and follows a [playlist](https://www.youtu
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/amankaushik3919/TheLitCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/amankaushik3919/TheLitCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/amankaushik3919/TheLitCode/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/amankaushik3919/TheLitCode/tree/master/0162-find-peak-element) |
@@ -199,6 +200,7 @@ From Now This Git Will Follow A2Z DSA and follows a [playlist](https://www.youtu
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/amankaushik3919/TheLitCode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/amankaushik3919/TheLitCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/amankaushik3919/TheLitCode/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/amankaushik3919/TheLitCode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/amankaushik3919/TheLitCode/tree/master/0053-maximum-subarray) |
@@ -306,5 +308,6 @@ From Now This Git Will Follow A2Z DSA and follows a [playlist](https://www.youtu
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/amankaushik3919/TheLitCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/amankaushik3919/TheLitCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
