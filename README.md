@@ -70,6 +70,7 @@ From Now This Git Will Follow A2Z DSA and follows a [playlist](https://www.youtu
 | [0222-count-complete-tree-nodes](https://github.com/amankaushik3919/TheLitCode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/amankaushik3919/TheLitCode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/amankaushik3919/TheLitCode/tree/master/0278-first-bad-version) |
+| [0367-valid-perfect-square](https://github.com/amankaushik3919/TheLitCode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/amankaushik3919/TheLitCode/tree/master/0374-guess-number-higher-or-lower) |
 ## Interactive
 |  |
@@ -160,6 +161,7 @@ From Now This Git Will Follow A2Z DSA and follows a [playlist](https://www.youtu
 | [0258-add-digits](https://github.com/amankaushik3919/TheLitCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/amankaushik3919/TheLitCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/amankaushik3919/TheLitCode/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/amankaushik3919/TheLitCode/tree/master/0367-valid-perfect-square) |
 | [2383-add-two-integers](https://github.com/amankaushik3919/TheLitCode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/amankaushik3919/TheLitCode/tree/master/2491-smallest-even-multiple) |
 | [2752-sum-multiples](https://github.com/amankaushik3919/TheLitCode/tree/master/2752-sum-multiples) |
