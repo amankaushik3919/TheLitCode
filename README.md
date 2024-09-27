@@ -147,6 +147,7 @@ From Now This Git Will Follow A2Z DSA and follows a [playlist](https://www.youtu
 | [0222-count-complete-tree-nodes](https://github.com/amankaushik3919/TheLitCode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/amankaushik3919/TheLitCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/amankaushik3919/TheLitCode/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/amankaushik3919/TheLitCode/tree/master/0338-counting-bits) |
 ## Math
 |  |
 | ------- |
@@ -170,6 +171,7 @@ From Now This Git Will Follow A2Z DSA and follows a [playlist](https://www.youtu
 | [0070-climbing-stairs](https://github.com/amankaushik3919/TheLitCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/amankaushik3919/TheLitCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amankaushik3919/TheLitCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/amankaushik3919/TheLitCode/tree/master/0338-counting-bits) |
 ## Memoization
 |  |
 | ------- |
