@@ -193,6 +193,7 @@ From Now This Git Will Follow A2Z DSA and follows a [playlist](https://www.youtu
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/amankaushik3919/TheLitCode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/amankaushik3919/TheLitCode/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/amankaushik3919/TheLitCode/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/amankaushik3919/TheLitCode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/amankaushik3919/TheLitCode/tree/master/0066-plus-one) |
@@ -215,6 +216,7 @@ From Now This Git Will Follow A2Z DSA and follows a [playlist](https://www.youtu
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/amankaushik3919/TheLitCode/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/amankaushik3919/TheLitCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/amankaushik3919/TheLitCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/amankaushik3919/TheLitCode/tree/master/0268-missing-number) |
@@ -229,6 +231,7 @@ From Now This Git Will Follow A2Z DSA and follows a [playlist](https://www.youtu
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/amankaushik3919/TheLitCode/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/amankaushik3919/TheLitCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/amankaushik3919/TheLitCode/tree/master/0141-linked-list-cycle) |
 | [0392-is-subsequence](https://github.com/amankaushik3919/TheLitCode/tree/master/0392-is-subsequence) |
