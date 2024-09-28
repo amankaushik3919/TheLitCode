@@ -245,6 +245,7 @@ From Now This Git Will Follow A2Z DSA and follows a [playlist](https://www.youtu
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/amankaushik3919/TheLitCode/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/amankaushik3919/TheLitCode/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/amankaushik3919/TheLitCode/tree/master/0908-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
@@ -293,6 +294,7 @@ From Now This Git Will Follow A2Z DSA and follows a [playlist](https://www.youtu
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/amankaushik3919/TheLitCode/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/amankaushik3919/TheLitCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/amankaushik3919/TheLitCode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/amankaushik3919/TheLitCode/tree/master/1013-fibonacci-number) |
 ## Enumeration
