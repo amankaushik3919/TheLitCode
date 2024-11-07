@@ -1,18 +1,15 @@
 class Solution {
     public void moveZeroes(int[] nums) {
-         int lastNonZeroFoundAt = 0; // Keeps track of the position to place the next non-zero element
+        int lastNonZeroFoundAt = 0;
 
-        // Move all non-zero elements to the beginning of the array
         for (int i = 0; i < nums.length; i++) {
             if (nums[i] != 0) {
-                nums[lastNonZeroFoundAt] = nums[i];
-                lastNonZeroFoundAt++;
+                nums[lastNonZeroFoundAt++] = nums[i];
             }
         }
 
-        // Fill the remaining positions in the array with zeros
-        for (int i = lastNonZeroFoundAt; i < nums.length; i++) {
-            nums[i] = 0;
+        while (lastNonZeroFoundAt < nums.length) {
+            nums[lastNonZeroFoundAt++] = 0;
         }
 
         // Print the result for verification
