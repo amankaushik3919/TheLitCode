@@ -4,12 +4,11 @@ class Solution {
 
         for (int i = 0; i < nums.length; i++) {
             if (nums[i] != 0) {
+                // Swap non-zero element with the element at lastNonZeroFoundAt
+                int temp = nums[lastNonZeroFoundAt];
                 nums[lastNonZeroFoundAt++] = nums[i];
+                nums[i] = temp;
             }
-        }
-
-        while (lastNonZeroFoundAt < nums.length) {
-            nums[lastNonZeroFoundAt++] = 0;
         }
 
         // Print the result for verification
