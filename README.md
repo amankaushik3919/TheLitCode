@@ -175,6 +175,7 @@ From Now This Git Will Follow A2Z DSA and follows a [playlist](https://www.youtu
 | [0258-add-digits](https://github.com/amankaushik3919/TheLitCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/amankaushik3919/TheLitCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/amankaushik3919/TheLitCode/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/amankaushik3919/TheLitCode/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/amankaushik3919/TheLitCode/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/amankaushik3919/TheLitCode/tree/master/0507-perfect-number) |
 | [0633-sum-of-square-numbers](https://github.com/amankaushik3919/TheLitCode/tree/master/0633-sum-of-square-numbers) |
@@ -298,6 +299,7 @@ From Now This Git Will Follow A2Z DSA and follows a [playlist](https://www.youtu
 | [0050-powx-n](https://github.com/amankaushik3919/TheLitCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/amankaushik3919/TheLitCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/amankaushik3919/TheLitCode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/amankaushik3919/TheLitCode/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/amankaushik3919/TheLitCode/tree/master/1013-fibonacci-number) |
 ## Enumeration
 |  |
